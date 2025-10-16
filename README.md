@@ -20,7 +20,7 @@
 
 ## Habilidades clave 🛠️🧰
 
-- <p align="center"> 
+- <p align="left"> 
   &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
@@ -31,6 +31,12 @@
   &emsp;
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
   </a>
+  &emsp;
+  <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
+  &emsp;
+  <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
+  &emsp;
+  <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-0078d7.svg?">
 </p>
 
 
