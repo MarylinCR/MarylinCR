@@ -73,17 +73,23 @@
 
 <div>
   <p align="center">
-	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
+	<a href="https://github.com/MarylinCR/Proyecto-final-Telecomunicaciones-en-Bootcamp-TripleTen.git">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
+	<a href="https://github.com/MarylinCR/Analisis-comportamiento-de-usuario-proyecto-bootcamp-TripleTen.git">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/7oSkaaa/Strees_Testing">
+    	<a href="https://github.com/MarylinCR/Tomar-decisiones-de-negocio-basadas-en-datos-proyecto-bootcamp-TripleTen.git">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/7oSkaaa/CP-Templates">
+    	<a href="https://github.com/MarylinCR/Analisis-de-negocio-proyecto-bootcamp-TripleTen.git">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	  <a href="https://github.com/MarylinCR/Aplicacion-web-con-Streamlit-proyecto-bootcamp-TripleTen.git">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/MarylinCR/MarylinCR.git">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
