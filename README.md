@@ -12,5 +12,27 @@
       alt="adam pithewan" height="30" width="40" /></a>
 </p>
 
+## Sobre mi 👋
+
+- 🤖 Ingeniera mecatronica ⚙️
+- 📊 Especializacion en analisis de datos 📈 (bootcamp en Tripleten) ✏️
+<br>
+
+## Habilidades clave 🛠️🧰
+
+- <p align="center"> 
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
+  </a>
+  &emsp;
+  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white">
+  </a>
+</p>
+
+
 
 
