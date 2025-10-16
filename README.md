@@ -8,3 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marylincasta%C3%B1oram%C3%ADrez/)
 
+[![Perfil de LinkedIn](https://img.shields.io/badge/Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marylincasta%C3%B1oram%C3%ADrez/)
+
+[![Perfil de LinkedIn](https://img.shields.io/badge/-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marylincasta%C3%B1oram%C3%ADrez/)
+
