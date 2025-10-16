@@ -26,15 +26,15 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
   &emsp;
-  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23FFA116.svg?"></a>
+  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-%234479A1.svg?"></a>
   &emsp;
-  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-%23FFA116.svg?"></a>
+  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-%234479A1.svg?"></a>
   &emsp;
-  <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-%23FFA116.svg?"></a>
+  <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-%234479A1.svg?"></a>
   &emsp;
-  <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23FFA116.svg?"></a>
+  <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%234479A1.svg?"></a>
   &emsp;
-  <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-%23FFA116.svg?"></a>
+  <a href="#"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-%234479A1.svg?"></a>
 </p>
 
 - <p align="left">
@@ -44,7 +44,7 @@
 
 - <p align="left">
   &emsp;
-  <a href="#"><img alt="ML(Machine Learning)" src="https://img.shields.io/badge/ML(Machine Learning)-%2314354C.svg?"></a>
+  <a href="#"><img alt="ML(Machine Learning)" src="https://img.shields.io/badge/ML(Machine Learning)-%23F7DF1E.svg?"></a>
   &emsp;
   <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%23FFA116.svg?"></a>
 </p>
