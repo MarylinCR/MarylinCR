@@ -6,9 +6,11 @@
   <img src="Banner para Linkedin Agencia de Marketing Profesional Azul y gris.png" alt="Banner de mi perfil" width="100%">
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marylincasta%C3%B1oram%C3%ADrez/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/marylincasta%C3%B1oram%C3%ADrez/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+</p>
 
-[![Perfil de LinkedIn](https://img.shields.io/badge/Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marylincasta%C3%B1oram%C3%ADrez/)
 
-[![Perfil de LinkedIn](https://img.shields.io/badge/-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marylincasta%C3%B1oram%C3%ADrez/)
 
