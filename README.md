@@ -68,6 +68,7 @@
   &emsp;
   <a href="#"><img alt="KPI LTV y ROMI" src="https://img.shields.io/badge/KPI LTV y ROMI-%2334A853.svg?"></a>
 </p>
+<br>
 
 ## 💻 Repositorios 📑
 
