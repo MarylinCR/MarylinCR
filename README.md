@@ -74,20 +74,22 @@
 
 <div>
   <p align="center">
-	<a href="https://github.com/MarylinCR/Proyecto-final-Telecomunicaciones-en-Bootcamp-TripleTen.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Proyecto-final-Telecomunicaciones-en-Bootcamp-TripleTen&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/MarylinCR/Analisis-de-Eficiencia-Operacional-en-Telecomunicaciones.git">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Analisis-de-Eficiencia-Operacional-en-Telecomunicaciones&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/MarylinCR/Analisis-comportamiento-de-usuario-proyecto-bootcamp-TripleTen.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Analisis-comportamiento-de-usuario-proyecto-bootcamp-TripleTen&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/MarylinCR/Analisis-de-comportamiento-de-usuario.git">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Analisis-de-comportamiento-de-usuario
+&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/MarylinCR/Tomar-decisiones-de-negocio-basadas-en-datos-proyecto-bootcamp-TripleTen.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Tomar-decisiones-de-negocio-basadas-en-datos-proyecto-bootcamp-TripleTen&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/MarylinCR/Validacion-de-Hipotesis-mediante-Test-A-B.git">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Validacion-de-Hipotesis-mediante-Test-A-B&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/MarylinCR/Analisis-de-negocio-proyecto-bootcamp-TripleTen.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Analisis-de-negocio-proyecto-bootcamp-TripleTen&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/MarylinCR/Analisis-de-negocio-Optimizacion-de-Gastos-de-Marketing.git">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Analisis-de-negocio-Optimizacion-de-Gastos-de-Marketing
+&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	  <a href="https://github.com/MarylinCR/Aplicacion-web-con-Streamlit-proyecto-bootcamp-TripleTen.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Aplicacion-web-con-Streamlit-proyecto-bootcamp-TripleTen&theme=tokyonight" alt="GitHub Stats" />
+	  <a href="https://github.com/MarylinCR/Estrategia-de-retencion-de-clientes-con-ML-Pronosticos-y-predicciones..git">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Estrategia-de-retencion-de-clientes-con-ML-Pronosticos-y-predicciones&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/MarylinCR/MarylinCR.git">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=MarylinCR&theme=tokyonight" alt="GitHub Stats" />
