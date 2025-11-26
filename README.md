@@ -78,8 +78,7 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Analisis-de-Eficiencia-Operacional-en-Telecomunicaciones&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/MarylinCR/Analisis-de-comportamiento-de-usuario.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Analisis-de-comportamiento-de-usuario
-&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Analisis-de-comportamiento-de-usuario&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/MarylinCR/Validacion-de-Hipotesis-mediante-Test-A-B.git">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Validacion-de-Hipotesis-mediante-Test-A-B&theme=tokyonight" alt="GitHub Stats" />
