@@ -79,7 +79,13 @@
 		</a>
  </p>
 </div>
-<!--	  
+
+<!--
+<div>
+  <p align="center">
+  	<a href="https://github.com/MarylinCR/Estrategia-de-retencion-de-clientes-con-ML-Pronosticos-y-predicciones.git">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Estrategia-de-retencion-de-clientes-con-ML-Pronosticos-y-prediccion&theme=tokyonight" alt="GitHub Stats" />
+		</a>
    	<a href="https://github.com/MarylinCR/Analisis-de-negocio-Optimizacion-de-Gastos-de-Marketing.git">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Analisis-de-negocio-Optimizacion-de-Gastos-de-Marketing&theme=tokyonight" alt="GitHub Stats" />
 		</a>
@@ -95,6 +101,6 @@
   	<a href="https://github.com/MarylinCR/MarylinCR.git">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=MarylinCR&theme=tokyonight" alt="GitHub Stats" />
 		</a>
--->
-  </p>
+ </p>
 </div>
+-->
