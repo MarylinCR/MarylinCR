@@ -74,48 +74,23 @@
 
 <div>
   <p align="center">
-	<a href="https://github.com/MarylinCR/Analisis-de-Eficiencia-Operacional-en-Telecomunicaciones.git">
+  	<a href="https://github.com/MarylinCR/Estrategia-de-retencion-de-clientes-con-ML-Pronosticos-y-predicciones.git">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Estrategia-de-retencion-de-clientes-con-ML-Pronosticos-y-prediccion&theme=tokyonight" alt="GitHub Stats" />
+		</a>
+  	<a href="https://github.com/MarylinCR/Analisis-de-negocio-Optimizacion-de-Gastos-de-Marketing.git">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Analisis-de-negocio-Optimizacion-de-Gastos-de-Marketing&theme=tokyonight" alt="GitHub Stats" />
+		</a>
+  	<a href="https://github.com/MarylinCR/Analisis-de-Eficiencia-Operacional-en-Telecomunicaciones.git">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Analisis-de-Eficiencia-Operacional-en-Telecomunicaciones&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/MarylinCR/Analisis-de-comportamiento-de-usuario.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Analisis-de-comportamiento-de-usuario&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/MarylinCR/Validacion-de-Hipotesis-mediante-Test-A-B.git">
+		</a>
+  	<a href="https://github.com/MarylinCR/Validacion-de-Hipotesis-mediante-Test-A-B.git">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Validacion-de-Hipotesis-mediante-Test-A-B&theme=tokyonight" alt="GitHub Stats" />
 		</a>
-    		<a href="https://github.com/MarylinCR/Analisis-de-negocio-Optimizacion-de-Gastos-de-Marketing.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Analisis-de-negocio-Optimizacion-de-Gastos-de-Marketing&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	  <a href="https://github.com/MarylinCR/Estrategia-de-retencion-de-clientes-con-ML-Pronosticos-y-predicciones.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Estrategia-de-retencion-de-clientes-con-ML-Pronosticos-y-predicciones&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/MarylinCR/MarylinCR.git">
+  	<a href="https://github.com/MarylinCR/Analisis-de-comportamiento-de-usuario.git">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Análisis-de-comportamiento-de-usuario&theme=tokyonight" alt="GitHub Stats" />
+		</a>
+  	<a href="https://github.com/MarylinCR/MarylinCR.git">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=MarylinCR&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-</div>
-
-
-
-<div>
-  <p align="center">
-  	<a href="https://github.com/MarylinCR/Proyecto-final-Telecomunicaciones-en-Bootcamp-TripleTen.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Proyecto-final-Telecomunicaciones-en-Bootcamp-TripleTen&theme=tokyonight" alt="GitHub Stats" />
-		</a>
-  	<a href="https://github.com/MarylinCR/Proyecto-final-Telecomunicaciones-en-Bootcamp-TripleTen.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Proyecto-final-Telecomunicaciones-en-Bootcamp-TripleTen&theme=tokyonight" alt="GitHub Stats" />
-		</a>
-  	<a href="https://github.com/MarylinCR/Proyecto-final-Telecomunicaciones-en-Bootcamp-TripleTen.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Proyecto-final-Telecomunicaciones-en-Bootcamp-TripleTen&theme=tokyonight" alt="GitHub Stats" />
-		</a>
-  	<a href="https://github.com/MarylinCR/Proyecto-final-Telecomunicaciones-en-Bootcamp-TripleTen.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Proyecto-final-Telecomunicaciones-en-Bootcamp-TripleTen&theme=tokyonight" alt="GitHub Stats" />
-		</a>
-  	<a href="https://github.com/MarylinCR/Proyecto-final-Telecomunicaciones-en-Bootcamp-TripleTen.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Proyecto-final-Telecomunicaciones-en-Bootcamp-TripleTen&theme=tokyonight" alt="GitHub Stats" />
-		</a>
-  	<a href="https://github.com/MarylinCR/Proyecto-final-Telecomunicaciones-en-Bootcamp-TripleTen.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Proyecto-final-Telecomunicaciones-en-Bootcamp-TripleTen&theme=tokyonight" alt="GitHub Stats" />
 		</a>
   </p>
 </div>
