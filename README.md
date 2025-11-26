@@ -85,8 +85,7 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Validacion-de-Hipotesis-mediante-Test-A-B&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/MarylinCR/Analisis-de-negocio-Optimizacion-de-Gastos-de-Marketing.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Analisis-de-negocio-Optimizacion-de-Gastos-de-Marketing
-&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Analisis-de-negocio-Optimizacion-de-Gastos-de-Marketing&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	  <a href="https://github.com/MarylinCR/Estrategia-de-retencion-de-clientes-con-ML-Pronosticos-y-predicciones..git">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Estrategia-de-retencion-de-clientes-con-ML-Pronosticos-y-predicciones&theme=tokyonight" alt="GitHub Stats" />
