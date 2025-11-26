@@ -94,3 +94,13 @@
     	</a>
   </p>
 </div>
+
+
+
+<div>
+  <p align="center">
+  	<a href="https://github.com/MarylinCR/Proyecto-final-Telecomunicaciones-en-Bootcamp-TripleTen.git">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=MarylinCR&repo=Proyecto-final-Telecomunicaciones-en-Bootcamp-TripleTen&theme=tokyonight" alt="GitHub Stats" />
+		</a>
+  </p>
+</div>
